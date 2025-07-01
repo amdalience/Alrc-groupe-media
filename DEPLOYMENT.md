@@ -11,7 +11,7 @@ git init
 git add .
 git commit -m "Initial commit - ALRC Groupe Média website"
 git branch -M main
-git remote add origin https://github.com/votre-username/alrc-groupe-media.git
+git remote add origin https://github.com/amdalience/alrc-groupe-media.git
 git push -u origin main
 
 # 3. Activer GitHub Pages dans les settings du repo
